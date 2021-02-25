@@ -1,0 +1,14 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.bg-rockland {
+	background: linear-gradient(
+		0deg,
+		rgba(72, 111, 158, 1) 0%,
+		rgba(86, 148, 224, 1) 100%
+	);
+}
